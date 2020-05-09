@@ -1,0 +1,26 @@
+
+.addimage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #0c5b6c;
+    background-image: url("/images/background.jpg");
+    height: 30rem;
+    color: #bee2eb;
+}
+
+.addimage h1{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    font-size: 5rem;
+    // font-family: 'Lora', serif;
+
+}
+.addimage h3{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    font-size: 1.5rem;
+    // font-family: 'Lora', serif;
+
+}
